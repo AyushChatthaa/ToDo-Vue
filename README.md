@@ -14,7 +14,7 @@
 
 
 To Run this project
-- First clone this repo `git clone git@github.com:Prakhargarg-2010196/TodoListVUE.git`
+- First clone this repo `git clone git@github.com:AyushChatthaa/ToDo-Vue.git`
 - now cd TodoListVue and run `npm i` or `pnpm i`
 - Also Setup json-server globally using command `npm i -g json-server`
 - Run json server using `json-server --watch db.json --port 3001`
